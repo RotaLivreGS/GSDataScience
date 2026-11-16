@@ -11,6 +11,7 @@ Global Solution 2026.2 · CitizenTech · Engenharia de Software · FIAP
 | **Cidadão beneficiado** | Cadeirantes, idosos, pessoas com mobilidade reduzida e quem anda com carrinho de bebê |
 | **Problema, em uma frase** | Os apps de mapa mostram o caminho mais rápido, mas não avisam se tem degrau, buraco ou falta de rampa no caminho. |
 | **Como funciona** | A pessoa coloca o destino e o seu perfil de mobilidade, e o app mostra uma rota que desvia das barreiras e prioriza rampas. As barreiras são relatadas pelos usuários e validadas por uma equipe. |
+| **O que cada parte faz** | **App:** monta a rota acessível. **Servidor:** guarda os relatos e calcula as rotas. **Moderação:** valida os relatos. **Central Rota Livre:** ponto físico com totens e Wi-Fi. **Análise de dados:** reclamações reais de calçada do SP156 (esta entrega). |
 | **Link do repositório** | https://github.com/RotaLivreGS/GSDataScience |
 | **Indicador de impacto** | Barreiras relatadas e validadas; quanto da rota sugerida fica livre de barreiras; atendimentos na Central |
 | **ODS conectados** | ODS 11 (metas 11.2 e 11.7), ODS 10 (meta 10.2) e ODS 9 (meta 9.c) |
